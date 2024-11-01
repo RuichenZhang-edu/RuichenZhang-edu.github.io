@@ -1,10 +1,10 @@
 experiences:
 
-- place: "University of North Carolina at Chapel Hill"
+- place: "UNC Chapel Hill"
   time: "2024 - now"
   title: "M.S. in Computer Science"
   subtitle: "Advisor: <a href='https://tianlong-chen.github.io/' target='_blank'>Prof. Tianlong Chen</a>"
-  category: "school"
+  category: "work"
 
 - place: "Shandong University"
   time: "2020 - 2024"
